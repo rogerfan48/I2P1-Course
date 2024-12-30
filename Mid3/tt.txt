@@ -1,0 +1,53 @@
+<html>
+   <head>
+      <title>Good Luck!</title>
+   </head>
+   <body>
+      <p>Have Fun!</p>
+      <p>Have Fun!</p>
+      <h1>Have Fun!</h1>
+      <h1>Have Fun!</h1>
+   </body>
+</html>
+clear
+shiftleftP
+shiftrightP
+allP a 10
+shiftrightP
+placeP 0
+1VLKXX3V
+placeH1 1
+snRLebY
+shiftleftH1
+placeP 0
+7beTden
+print
+allP f 7
+swapH1 0 1
+Newtitle
+f2fGdUz6
+swapH1 0 0
+print
+allP e 1
+print
+shiftrightP
+swapP 1 0
+shiftleftP
+print
+exit
+
+<html>
+   <head>
+      <title>Good Luck!</title>
+   </head>
+   <body>
+      <p>Have Fun!</p>
+      <h1>Have Fun!</h1>
+      <h1>Have Fun!</h1>
+      <p>Have Fun!</p>
+      <p>Have Fun!</p>
+      <p>Have Fun!</p>
+      <h1>Have Fun!</h1>
+      <h1>Have Fun!</h1>
+   </body>
+</html>
